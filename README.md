@@ -1,6 +1,6 @@
 # docker-livy
 
-### Check the article here:  <a href="https://coraspe-ramses.medium.com/building-real-time-interactions-with-apache-spark-through-apache-livy-53169d87d012">Building Real-time interactions with Apache Spark through Apache Livy</a>
+### Check the article here:  <a href="https://coraspe-ramses.medium.com/building-real-time-interactions-with-apache-spark-through-apache-livy-53169d87d012">Building Real-time communication with Apache Spark through Apache Livy</a>
 
 ## Dockerizing and Consuming an Apache Livy environment
 
